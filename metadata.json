@@ -1,0 +1,6 @@
+{
+  "name": "STYLEORA - Luxury & Contemporary Fashion",
+  "description": "Premium full-stack clothing e-commerce destination with complete product catalog, variant inventory, shopping bag, Pakistan COD checkout, customer account, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
